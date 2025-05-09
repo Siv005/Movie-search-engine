@@ -1,3 +1,14 @@
+
+created a website  "movie search engine" using react.js. 
+when you search for the movie name it shows the movie list according to you search and it shows the result dynamically when you click on the search icon.
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
